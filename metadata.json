@@ -1,0 +1,5 @@
+{
+  "name": "Password Safe",
+  "description": "An application to store website addresses, usernames, and passwords locally. It allows you to add notes and easily copy passwords to the clipboard with audio feedback.",
+  "requestFramePermissions": []
+}
